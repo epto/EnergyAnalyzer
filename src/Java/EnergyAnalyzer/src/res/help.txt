@@ -1,0 +1,19 @@
+EnergyAnalyzer Ver %%VER%% (C) 2017 by EPTO(A)
+
+EnergyAnalyzer [ -n ] [ -d <device> ] [ -s <saveTo> ]
+EnergyAnalyzer [ -n ] [ -p <portNumber> ] [ -s <saveTo> ]
+EnergyAnalyzer [-w ] [ -f <file> ] [ -s <saveTo> ]
+EnergyAnalyzer [ -a ] [ -s <saveTo> ]
+EnergyAnalyzer -l
+
+	-l	--list		List all available ports.
+	-n			Don't check the port name.
+	-d	--device	Set the device name.
+	-p	--port		Set the port by number from 1 to N.
+				You can use the keywords: first, last.
+	-a	--auto		Autodetect the device.
+			
+	-f	--file		Read data from file.
+	-s	--save		Save data to a file.
+	-w	--dialog	Choose the serial port by dialog window.
+	-?			This help.

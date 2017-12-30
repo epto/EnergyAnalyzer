@@ -1,0 +1,21 @@
+﻿R1 51 KΩ
+R2 51 KΩ
+R3 3.3 KΩ
+R4 100 KΩ
+
+C1 100 pF Ceramic
+C2 1 nF Ceramic
+C3 100 pF Ceramic
+C4 1 nF Ceramic
+C5 4.7 nF Polycarbonate
+
+VR1 1 MΩ Linear
+VR2 1 MΩ Linear
+
+D1 1N4148 / 1N4001
+T1 1:1 Line Matching transformer P1200
+
+
+
+
+

@@ -1,0 +1,5 @@
+Project path:		/sdcard/projects/EnergyAnalyzer
+Extra jar path:		/sdcard/jarExtra
+Output path:		/sdcard/jarOut
+
+
